@@ -65,7 +65,7 @@ nav ul li a:hover::after{
 
 }
 .header-text h1 span{
-    color: rgb(173, 48, 48);
+    color: #38909a;
 }
 /* -----------------about------------------- */
 #about{
@@ -121,7 +121,7 @@ nav ul li a:hover::after{
     margin: 10px 0;
 }
 .tab-contents ul li span{
-    color: rgb(88, 88, 241);
+    color: #38909a;
     font-size: 16px;
 }
 .tab-contents{
@@ -141,7 +141,7 @@ nav ul li a:hover::after{
     margin-top: 50px;
 }
 .project-list div{
-    background-color: rgb(47, 47, 96);
+    background-color: #18555C;
     padding: 40px;
     font-size: 13px;
     font-weight: 300;
@@ -227,7 +227,7 @@ nav ul li a:hover::after{
     display: block;
     margin: 50px auto;
     width: fit-content;
-    border: 1px solid rgb(88, 88, 241);
+    border: 1px solid #38909a;
     padding: 14px 50px;
     border-radius: 6px;
     text-decoration: none;
@@ -279,7 +279,7 @@ form input, form textarea{
     width: 100%;
     border: 0;
     outline: none;
-    background: rgb(47, 47, 96);
+    background: #18555C;
     padding: 15px;
     margin: 15px;
     color: white;
@@ -296,7 +296,7 @@ form .btn2{
     width: 100%;
     text-align: center;
     padding: 25px 0;
-    background: rgb(47, 47, 96);
+    background: #18555C;
     font-weight: 300;
     margin-top: 20px;
 }
@@ -326,7 +326,7 @@ nav .fa-solid{
         font-size: 30px;
     }
     nav ul{
-        background: rgb(47, 47, 96);
+        background: #18555C;
         position: fixed;
         top: 0;
         right: -200px;
