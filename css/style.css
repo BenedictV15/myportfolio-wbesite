@@ -124,6 +124,10 @@ nav ul li a:hover::after{
     color: #38909a;
     font-size: 16px;
 }
+.tab-contents ul li span b{
+    color: #2a9729;
+    font-size: 16px;
+}
 .tab-contents{
     display: none;
 }
@@ -375,4 +379,7 @@ nav .fa-solid{
     color: rgb(58, 170, 58);
     margin-top: -20px;
     display: block;
+}
+.testing{
+    list-style-type: circle;
 }
